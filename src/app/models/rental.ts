@@ -8,5 +8,5 @@ export interface Rental{
     modelYear:number,
     rentDate:Date,
     returnDate:Date,
-    dailyPrice:number
+    dailyPrice:number 
 }
